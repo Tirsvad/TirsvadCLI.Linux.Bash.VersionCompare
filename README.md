@@ -1,2 +1,2 @@
 # Linux.Bash.VersionCompare
-Compare version number
+A bash module to compare version number
