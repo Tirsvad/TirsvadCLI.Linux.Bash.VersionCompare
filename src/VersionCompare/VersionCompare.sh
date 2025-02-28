@@ -1,5 +1,5 @@
 #!/bin/bash
-declare -r -g TCLI_VERSION_COMPARE=0.0.1
+declare -r -g TCLI_LINUX_VERSIONCOMPARE=0.0.1
 
 function compare_versions() {
     if [[ $1 == $2 ]]; then
